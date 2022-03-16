@@ -1,5 +1,6 @@
 # Pokédex
 
+Confira em: https://wilhamsgomes.github.io/Pokedex/
 
 
 https://user-images.githubusercontent.com/71606861/158490895-87f49aa8-5619-45c8-9edf-912abae93e28.mp4
